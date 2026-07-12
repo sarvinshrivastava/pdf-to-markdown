@@ -1,0 +1,4 @@
+surya-ocr @ git+https://github.com/datalab-to/surya.git
+pdf2image
+Pillow
+torch
